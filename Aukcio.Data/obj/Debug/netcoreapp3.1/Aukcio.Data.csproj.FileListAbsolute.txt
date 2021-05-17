@@ -1,0 +1,15 @@
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.csprojAssemblyReference.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.AssemblyInfoInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.AssemblyInfo.cs
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.csproj.CoreCompileInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Data.deps.json
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Data.runtimeconfig.json
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Data.runtimeconfig.dev.json
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Data.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Data.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\bin\Debug\netcoreapp3.1\Aukcio.Models.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.csproj.CopyComplete
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Data\obj\Debug\netcoreapp3.1\Aukcio.Data.genruntimeconfig.cache

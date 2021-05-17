@@ -1,0 +1,12 @@
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\bin\Debug\net5.0\Aukcio.Models.deps.json
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\bin\Debug\net5.0\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\bin\Debug\net5.0\ref\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\bin\Debug\net5.0\Aukcio.Models.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.csprojAssemblyReference.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.AssemblyInfoInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.AssemblyInfo.cs
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.csproj.CoreCompileInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\ref\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Aukcio.Models\obj\Debug\net5.0\Aukcio.Models.pdb

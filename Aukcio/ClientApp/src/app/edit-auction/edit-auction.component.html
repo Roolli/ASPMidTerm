@@ -1,0 +1,14 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+  <div class="form-group">
+    <label>Auction name:</label>
+    <input [(ngModel)]="currentlyEdited.auctionName" type="text" class="form-control" placeholder="Name" value="{{currentlyEdited.auctionName}}">
+    <label>Description</label>
+    <input [(ngModel)]="currentlyEdited.description" type="text" class="form-control" placeholder="Description" value="{{currentlyEdited.description}}">
+    <label>Initial bid:</label>
+    <input [(ngModel)]="currentlyEdited.currentBid" type="number" class="form-control" placeholder="0" value="{{currentlyEdited.currentBid}}">
+    <label>Buyout price:</label>
+    <input [(ngModel)]="currentlyEdited.buyoutPrice" type="number" class="form-control" placeholder="200" value="{{currentlyEdited.buyoutPrice}}">
+    <button (click)="submit()" class="btn btn-success">Submit</button>
+  </div>
+</div>

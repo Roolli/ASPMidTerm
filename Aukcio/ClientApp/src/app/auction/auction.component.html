@@ -1,0 +1,36 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+  <br/>
+  <div class="card mb-3 text-white bg-dark" *ngFor="let auction of auctions">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="card-body">
+          <h5 class="card-title">
+            {{auction.auctionName}}
+          </h5>
+          <p class="card-text">Current bid: {{auction.currentBid}} Ft</p>
+          <p *ngIf="auction.buyoutPrice" class="card-text">Buyout: {{auction.buyoutPrice}} Ft</p>
+          <p class="card-text">{{auction.description}}</p>
+          <div
+            *ngIf="decoded_token.id == auction.ownerId else notOwner"
+            class="container">
+            <button (click)="editAuction(auction.uId)" class="btn btn-warning mr-2">Edit</button>
+            <button (click)="deleteAuction(auction.uId)" class="btn btn-danger">Delete</button>
+          </div>
+          <ng-template #notOwner>
+            <div class="form-inline">
+
+              <div class="form-group mb-2 mx-sm">
+                <label for="place_bid" class="mr-3">Bid:</label>
+                <input id="place_bid" class="form-control mr-3" type="number" min="{{auction.currentBid}}" #bid>
+                <button (click)="placeBid(bid.value,auction.uId)" class="btn btn-primary">Place bid</button>
+                <button (click)="buyout(auction.uId)" class="btn btn-success">Buyout
+                </button>
+              </div>
+            </div>
+          </ng-template>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

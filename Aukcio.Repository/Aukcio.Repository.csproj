@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Aukcio.Data\Aukcio.Data.csproj" />
+      <ProjectReference Include="..\Aukcio.Models\Aukcio.Models.csproj" />
+    </ItemGroup>
+
+</Project>

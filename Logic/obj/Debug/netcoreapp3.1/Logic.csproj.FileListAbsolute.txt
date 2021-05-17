@@ -1,0 +1,16 @@
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Models.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Models.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.csprojAssemblyReference.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CopyComplete
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Data.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Repository.dll
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Repository.pdb
+C:\Users\Roolli\RiderProjects\Aukcio\Logic\bin\Debug\netcoreapp3.1\Aukcio.Data.pdb
